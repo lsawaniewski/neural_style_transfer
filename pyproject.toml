@@ -8,6 +8,7 @@ authors = ["Łukasz Sawaniewski <l.sawaniewski@gmail.com>"]
 python = "^3.8"
 torch = "^1.8.1"
 torchvision = "^0.9.1"
+matplotlib = "^3.4.1"
 
 [tool.poetry.dev-dependencies]
 
